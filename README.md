@@ -40,4 +40,4 @@ Este projeto me ajudou a reforçar minha experiência com estilos modernos e res
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/BeatrizBastosBorges)
+- Frontend Mentor - [@BeatrizBastosBorges](https://www.frontendmentor.io/profile/BeatrizBastosBorges)
